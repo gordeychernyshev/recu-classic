@@ -1,0 +1,13 @@
+bin/
+dist/
+recovered/
+recovered-*/
+batch-test/
+unicode-recover/
+tests/*.img
+tests/*.csv
+tests/synthetic-media/
+ui-safe-mode-check*.png
+*.tmp
+*.bak
+*.log
